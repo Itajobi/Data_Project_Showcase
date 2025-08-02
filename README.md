@@ -77,8 +77,7 @@ Key Features:
    - Run SQL scripts in SQL Server, MySQL, or PostgreSQL for structured data operations.
    - Execute Google Cloud BigQuery queries for business insights extraction.
 
-## Credits and Acknowledgments
-This repository is part of the May 2025 Knowledge Showcase, highlighting the application of health data visualization, financial analytics, SQL database structuring, cloud-based query optimization, crime trend analysis, and consumer behavior insights.
+
 
 
 
